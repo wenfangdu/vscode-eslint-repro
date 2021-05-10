@@ -1,24 +1,9 @@
 # vscode-eslint-repro
 
-## Project setup
-```
-yarn install
-```
+Please see `test.js` and `main.ts` respectively.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+![](test.js.png)
 
-### Compiles and minifies for production
-```
-yarn build
-```
+---
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![](main.ts.png)
