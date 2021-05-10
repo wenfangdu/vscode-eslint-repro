@@ -5,4 +5,4 @@ createApp(App).mount("#app");
 
 const a = "a";
 // 👇 ts is not
-console.log({ a });
+console.log({ a: a });
